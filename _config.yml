@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://knowmorecs.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: know more cs # site's title
+description: "杨奇的个人博客" # used by search engines
 
 defaults:
   - 
